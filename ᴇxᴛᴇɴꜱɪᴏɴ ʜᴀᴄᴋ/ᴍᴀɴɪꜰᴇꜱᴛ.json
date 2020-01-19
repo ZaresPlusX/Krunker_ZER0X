@@ -1,0 +1,25 @@
+ 
+{
+  "name": "Kruner ℤ𝔼ℝ𝟘𝕏",
+  "homepage_url": "https://github.com/ZaresPlusX/Krunker_ZER0X",
+  "version": "1.9.7",
+  "manifest_version": 2,
+  "description": "ℤ𝔼ℝ𝟘𝕏",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://krunker.io/*",
+    "*://matchmaker.krunker.io/*",
+    "background"
+  ],
+  "web_accessible_resources": [
+    "zip.js", "zip-ext.js"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Krunker ℤ𝔼ℝ𝟘𝕏"
+  },
+  "background": {
+    "scripts": ["hook.js"]
+  }
+}
