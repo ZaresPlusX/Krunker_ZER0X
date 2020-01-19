@@ -34,6 +34,6 @@ ______________________________________________________________________________
 
 | 𝓢𝓲𝓽𝓮 | ✅ |
 | --- | --- |
-| [YouTube](https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3WEg) |   🔥  |
-| [Instagram](https://www.instagram.com/zaresplusx/) |  📸  |
+| [𝒴𝑜𝓊𝒯𝓊𝒷𝑒](https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3WEg) |   🔥  |
+| [𝐼𝓃𝓈𝓉𝒶𝑔𝓇𝒶𝓂](https://www.instagram.com/zaresplusx/) |  📸  |
 ______________________________________________________________________________
