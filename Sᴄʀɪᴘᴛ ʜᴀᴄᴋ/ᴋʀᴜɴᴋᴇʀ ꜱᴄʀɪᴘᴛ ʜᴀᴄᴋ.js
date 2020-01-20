@@ -13,18 +13,19 @@
 /* OBFUSCATED VARS REFERENCE
 procInputs
 objInstances
-cnBSeen
-canSee
+cnBSeen [ESP] "('cnBSeen', /\['(\w+)']=!0x0,!spectating/)[_0x216e('0xb')](_0x216e('0xd'), /,this\['(\w+)'\]=function\(\w+,\w+,\w+,\w+,\w+\){if\(!\w+\)return!\w+;/)['set'](_0x216e('0xe'), /\(\w+,\w+,\w+\),this\['(\w+)'\]=new \w+\['\w+'\]\(\)/)['set'](_0x216e('0xf'), /\w*1,this\['\w+'\]=\w*0,this\['\w+'\]=\w*0,this\['\w+'\]=\w*1,this\['\w+'\]=\w*1,this\['\w+'\]=\w*0,this\['\w+'\]=\w*0,this\['(\w+)'\]=\w*0,this\['\w+'\]=\w*0,this\['\w+'\]=\w*0,this\['\w+'\]=\w*0,/)[_0x216e('0xb')](_0x216e('0x10'), /this\['\w+'\]=function\(\){this\['(\w+)'\]=\w*0,this\['(\w+)'\]=\w*0,this\['\w+'\]={}/)[_0x216e('0xb')](_0x216e('0x11'), /this\['(\w+)']=0x0,this\['keys']=/)[_0x216e('0xb')](_0x216e('0x12'), /\['camera']\['(\w+)']\(\);if/)['set']('maxHealth', /this\['health']\/this\['(\w+)']\?/)[_0x216e('0xb')](_0x216e('0x13'), /0x0,this\['(\w+)']=!0x1,this\['lodActive']=!0x1/)['set'](_0x216e('0x14'), /{!\w+\['reloadTimer']&&\w+\['(\w+)']/)[_0x216e('0xb')](_0x216e('0x15'), /'(\w+)':!0x0,'burst':/)[_0x216e('0xb')](_0x216e('0x16'), /\['reloadTimer']&&\w+\['\w+']\[\w+\['(\w+)']/);"
+canSee "?"
 pchObjc
 recoilAnimY
 mouseDownL
 mouseDownR
-getWorldPosition
-maxHealth
-didShoot
-ammos
-nAuto
-weaponIndex
+getWorldPosition [3D esp]
+maxHealth [GUI] "('maxHealth', /this\['health']\/this\['(\w+)']\?/)[_0x216e('0xb')](_0x216e('0x13'), /0x0,this\['(\w+)']=!0x1,this\['lodActive']=!0x1/)['set'](_0x216e('0x14'), /{!\w+\['reloadTimer']&&\w+\['(\w+)']/)[_0x216e('0xb')](_0x216e('0x15'), /'(\w+)':!0x0,'burst':/)[_0x216e('0xb')](_0x216e('0x16'), /\['reloadTimer']&&\w+\['\w+']\[\w+\['(\w+)']/);"
+didShoot "?"
+ammos "?"
+nAuto "?"
+weaponIndex "?"
+Reload['reloadTimer']&&\w+\['\w+']\[\w+\['(\w+)']/);
 
 isYou = renderYou
 */
