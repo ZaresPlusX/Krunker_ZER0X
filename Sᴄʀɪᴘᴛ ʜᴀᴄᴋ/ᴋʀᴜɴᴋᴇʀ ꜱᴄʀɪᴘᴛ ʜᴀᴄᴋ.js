@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript (template)
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @name         Krunker ℤ𝔼ℝ𝟘𝕏
+// @namespace    https://github.com/ZaresPlusX/Krunker_ZER0X
+// @version      1.9.7
+// @description  ᴜɴʟɪᴍɪᴛᴇᴅ ℤ𝔼ℝ𝟘𝕏 ᴘᴏᴡᴇʀ
+// @author       ZaresPlus X
 // @match        *://krunker.io/*
 // @run-at       document-start
 // @grant        none
