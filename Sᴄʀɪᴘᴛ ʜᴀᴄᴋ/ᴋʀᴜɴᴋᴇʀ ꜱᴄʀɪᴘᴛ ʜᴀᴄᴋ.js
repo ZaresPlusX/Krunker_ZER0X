@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker ℤ𝔼ℝ𝟘𝕏
 // @namespace    https://github.com/ZaresPlusX/Krunker_ZER0X
-// @version      1.9.7
+// @version      1.9.7.1
 // @description  ᴜɴʟɪᴍɪᴛᴇᴅ ℤ𝔼ℝ𝟘𝕏 ᴘᴏᴡᴇʀ
 // @author       ZaresPlus X & SkidLamer
 // @match        *://krunker.io/*
