@@ -1,4 +1,4 @@
-Krunker 1.9.7 hack is on progress
+Krunker 1.9.8 hack
 # ᴜɴʟɪᴍɪᴛᴇᴅ ℤ𝔼ℝ𝟘𝕏 ᴘᴏᴡᴇʀ
 
 <b>REQUIREMENTS:</b> • ᴛᴀᴍᴘᴇʀᴍᴏɴᴋᴇʏ/ᴠɪᴏʟᴇɴᴛᴍᴏɴᴋᴇʏ ᴀɴᴅ ᴡɪɴᴅᴏᴡs/ᴍᴀᴄ [64 ʙɪᴛ]</br>
