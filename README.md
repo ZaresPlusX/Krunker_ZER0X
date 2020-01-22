@@ -57,3 +57,5 @@ ______________________________________________________________________________
 | [𝒴𝑜𝓊𝒯𝓊𝒷𝑒](https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3WEg) |   🔥  |
 | [𝐼𝓃𝓈𝓉𝒶𝑔𝓇𝒶𝓂](https://www.instagram.com/zaresplusx/) |  📸  |
 ______________________________________________________________________________
+
+![banner](https://i.ytimg.com/vi/EeT1NprHnKg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAA4cs296RpyJ-Q2km2UtEVARFNNA)
