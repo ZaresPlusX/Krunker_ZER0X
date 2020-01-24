@@ -3,7 +3,7 @@ function cripple_window(_window) {
     if (!_window) {
         return;
     }
-
+    // state is shared across all frames
     let shared_state = new Map(Object.entries({safe_windows: new WeakMap(), functions_to_hide: new WeakMap(), functions_to_hide_rev: new WeakMap(), strings_to_hide: [], hidden_globals: [], init: false}));
 
     let invisible_define = function(obj, key, value) {
@@ -15,10 +15,13 @@ function cripple_window(_window) {
             value: value
         });
     };
+        // unique to each user
         const master_key = 'ZaresPlus X#1321';
     if (!_window.top[master_key]) {
+        // initialise top state
         invisible_define(_window.top, master_key, shared_state);
     } else {
+        // restore
         shared_state = _window.top[master_key];
     }
     shared_state.get('safe_windows').set(_window, window);
@@ -43,6 +46,7 @@ function cripple_window(_window) {
             try {
                 var ret = Function.prototype.apply.apply(target, [_this, _arguments]);
             } catch (e) {
+                
                 e.stack = e.stack.replace(/\n.*Object\.apply.*/, '');
                 throw e;
             }
@@ -62,6 +66,7 @@ function cripple_window(_window) {
             try {
                 var descriptors = Function.prototype.apply.apply(target, [_this, _arguments]);
             } catch (e) {
+                // modify stack trace to hide proxy
                 e.stack = e.stack.replace(/\n.*Object\.apply.*/, '');
                 throw e;
             }
@@ -115,7 +120,7 @@ function cripple_window(_window) {
     });
     _window.Reflect.ownKeys = hook_ownKeys;
     conceal_function(original_ownKeys, hook_ownKeys);
-
+/********************************************************************************************************************/
     let drawVisuals = function() {};
     const original_clearRect = _window.CanvasRenderingContext2D.prototype.clearRect;
     const original_save = _window.CanvasRenderingContext2D.prototype.save; 
@@ -142,6 +147,7 @@ function cripple_window(_window) {
     });
     _window.CanvasRenderingContext2D.prototype.clearRect = hook_clearRect;
     conceal_function(original_clearRect, hook_clearRect);
+/********************************************************************************************************************/
 
     if (!shared_state.get('Zares')) {
         shared_state.set('Zares', function(me, inputs, world, consts, math) {
@@ -157,7 +163,7 @@ function cripple_window(_window) {
             controls[scrollDelta] = 0;
             controls[wSwap] = 0;
             /********************************************************************************************************************/
-            //Basic camera info [Find enemy place]
+            //Basic camera info [Find enemy place] (this information never change)
             /********************************************************************************************************************/
             const playerHeight = 11;
             const crouchDst = 3;
@@ -262,7 +268,6 @@ function cripple_window(_window) {
             // runs once
             if (!shared_state.get('init')) {
                 shared_state.set('init', true);
-
                 drawVisuals = function(c) {
                     let scalingFactor = arguments.callee.caller.caller.arguments[0];
                     let perspective = arguments.callee.caller.caller.arguments[2];
@@ -333,12 +338,14 @@ function cripple_window(_window) {
                         ymax = yScale * (1 - ymax);
                         xmin = xScale * xmin;
                         xmax = xScale * xmax;
+                        //-----
                         original_moveTo.apply(c, [xmin, ymin]);
                         original_lineTo.apply(c, [xmin, ymax]);
                         original_lineTo.apply(c, [xmax, ymax]);
                         original_lineTo.apply(c, [xmax, ymin]);
                         original_lineTo.apply(c, [xmin, ymin]);
                         original_stroke.apply(c, []);
+                        //-----
             /********************************************************************************************************************/
                         // health bar
                         c.fillStyle = "rgba(255,50,50,1)";
@@ -485,6 +492,7 @@ function cripple_window(_window) {
         }
 
         // note: this window is not the main window
+        //You need change this code u dumb to get the hack work again lol! smart nibba
         window.canSee = clean_script.match(/\s*,\s*this\s*\[\s*'(\w+)'\s*\]\s*=\s*function\s*\(\s*\w+\s*,\s*\w+\s*,\s*\w+\s*,\s*\w+\s*,\s*\w+\)\s*{\s*if\s*\(\s*(?:true\s*&&\s*)?!\s*\w+\)return\s*(?:true\s*&&\s*)?!\s*\w+;/)[1];
         window.pchObjc = clean_script.match(/\s*\(\s*\w+\s*,\s*\w+\s*,\s*\w+\)\s*,\s*this\s*\[\s*'(\w+)'\s*\]\s*=\s*new \w+\s*\[\s*'\w+'\s*\]\s*\(\s*\)/)[1];
         window.objInstances = clean_script.match(/\s*\[\w+\]\s*\[\s*'\w+'\s*\]\s*=\s*(?:true\s*&&\s*)?!\s*\w+\s*,\s*this\s*\[\s*'\w+'\s*\]\s*\[\w+\]\s*\[\s*'\w+'\s*\]\s*&&\s*\(\s*this\s*\[\s*'\w+'\s*\]\s*\[\w+\]\s*\[\s*'(\w+)'\s*\]\s*\[\s*'\w+'\s*\]\s*=\s*(?:true\s*&&\s*)?!\s*\w+/)[1];
@@ -509,7 +517,7 @@ function cripple_window(_window) {
         const consts = clean_script.match(/\w+\s*\[\s*'\w+'\s*\]\s*\)\s*,\s*\w+\s*\[\s*'\w+'\s*\]\s*\(\s*\w+\s*\[\s*'\w+'\s*\]\s*,\s*\w+\s*\[\s*'\w+'\s*\]\s*\+\w+\s*\[\s*'\w+'\s*\]\s*\*(\w+)/)[1];
         const me = clean_script.match(/\s*\(\s*\w+\s*,\s*\w*1\)\)\s*,\s*\w+\s*\[\s*'\w+'\s*\]\s*=\s*\w*0\s*,\s*\w+\s*\[\s*'\w+'\s*\]\s*=\s*\w*0\s*,\s*(?:true\s*&&\s*)?!\s*(\w+)\s*\[\s*'\w+'\s*\]\s*&&\s*\w+\s*\[\s*'\w+'\s*\]\s*\[\s*'push'\s*\]\s*\(\s*(\w+)\)\s*,\s*(\w+)\s*\[\s*'\w+'\s*\]\s*/)[3];
         const math = clean_script.match(/\\x20\-50\%\)\\x20rotate\s*\(\s*'\+\s*\(\s*(\w+)\s*\[\s*'\w+'\s*\]\s*\(\s*\w+\s*\[\w+\]\s*\[\s*'\w+'\s*\]\s*/)[1];
-
+        //You need change this code u dumb to get the hack work again lol! smart nibba!
         const code_to_overwrite = script.match_with_comments(/\w+\s*\[\s*'\w+'\s*\]\s*&&\s*\(\s*\w+\s*\[\s*'\w+'\s*\]\s*=\s*\w+\s*\[\s*'\w+'\s*\]\s*,\s*!\s*\w+\s*\[\s*'\w+'\s*\]\s*&&\s*\w+\s*\[\s*'\w+'\s*\]\s*\(\s*\w+\s*,\s*\w*1\)\)\s*,\s*\w+\s*\[\s*'\w+'\s*\]\s*=\s*\w*0\s*,\s*\w+\s*\[\s*'\w+'\s*\]\s*=\s*\w*0/);
         const ttapParams = [me, inputs, world, consts, math].toString();
         let call_Zares = `top['` + master_key + `'].get('Zares')(` + ttapParams + `)`;
