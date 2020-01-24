@@ -30,6 +30,12 @@ Krunker 1.9.8 hack
 ```
 **🆃🆄🆃🅾🆁🅸🅰🅻:**
 
+**ℍ𝕠𝕨 𝕥𝕠 𝕦𝕤𝕖 𝕎𝕙𝕖𝕖𝕝ℂ𝕙𝕒𝕚𝕣 ℝ𝕖𝔹𝕠𝕣𝕟**
+1. [Download this (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/1.9.2/loader.zip)
+2. Navigate to chrome://extensions
+3. Enable developer mode (probably a checkbox in the top right)
+4. Drag the downloaded file into the extensions page (you do not need to extract)
+
 Your hack is now working!
 
 **ℍ𝕠𝕨 𝕥𝕠 𝕘𝕖𝕥 𝕦𝕟𝕝𝕚𝕞𝕚𝕥𝕖𝕕 𝕗𝕡𝕤 𝕠𝕟 𝕓𝕣𝕠𝕨𝕤𝕖𝕣?**
