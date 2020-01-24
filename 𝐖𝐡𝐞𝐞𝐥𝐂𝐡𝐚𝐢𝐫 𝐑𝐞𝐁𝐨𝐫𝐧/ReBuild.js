@@ -519,8 +519,8 @@ function cripple_window(_window) {
         const math = clean_script.match(/\\x20\-50\%\)\\x20rotate\s*\(\s*'\+\s*\(\s*(\w+)\s*\[\s*'\w+'\s*\]\s*\(\s*\w+\s*\[\w+\]\s*\[\s*'\w+'\s*\]\s*/)[1];
         //You need change this code u dumb to get the hack work again lol! smart nibba!
         const code_to_overwrite = script.match_with_comments(/\w+\s*\[\s*'\w+'\s*\]\s*&&\s*\(\s*\w+\s*\[\s*'\w+'\s*\]\s*=\s*\w+\s*\[\s*'\w+'\s*\]\s*,\s*!\s*\w+\s*\[\s*'\w+'\s*\]\s*&&\s*\w+\s*\[\s*'\w+'\s*\]\s*\(\s*\w+\s*,\s*\w*1\)\)\s*,\s*\w+\s*\[\s*'\w+'\s*\]\s*=\s*\w*0\s*,\s*\w+\s*\[\s*'\w+'\s*\]\s*=\s*\w*0/);
-        const ttapParams = [me, inputs, world, consts, math].toString();
-        let call_Zares = `top['` + master_key + `'].get('Zares')(` + ttapParams + `)`;
+        const plusParams = [me, inputs, world, consts, math].toString();
+        let call_Zares = `top['` + master_key + `'].get('Zares')(` + plusParams + `)`;
 
         if (call_Zares.length + 4 > code_to_overwrite[0].length) {
             throw 'WHEELCHAIR: target function too small ' + [call_Zares.length, code_to_overwrite[0].length];
