@@ -35,7 +35,7 @@ Your hack is now working!
 **ℍ𝕠𝕨 𝕥𝕠 𝕘𝕖𝕥 𝕦𝕟𝕝𝕚𝕞𝕚𝕥𝕖𝕕 𝕗𝕡𝕤 𝕠𝕟 𝕓𝕣𝕠𝕨𝕤𝕖𝕣?**
 
 ᴄᴏᴘʏ ᴀɴᴅ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ᴄᴏᴅᴇ ɪɴ ɴᴇᴡ ᴛᴇxᴛ ꜰɪʟᴇ. ꜱᴀᴠᴇ ᴛʜᴇ ᴛᴇxᴛ ꜰɪʟᴇ ᴀꜱ [ɴᴀᴍᴇ ʏᴏᴜ ᴡᴀɴᴛ].ʙᴀᴛ ᴏᴘᴇɴ ʙᴀᴛ ᴀɴᴅ ʏᴏᴜʀ ᴅᴏɴᴇ
-```
+```diff
 taskkill /IM "chrome.exe" /F
 start chrome --disable-gpu-vsync --disable-frame-rate-limit "krunker.io" 
 ```
