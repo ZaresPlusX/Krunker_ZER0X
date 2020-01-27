@@ -22,7 +22,7 @@ _________________________________________________________________________
 _________________________________________________________________________
 **ℍ𝕠𝕨 𝕥𝕠 𝕦𝕤𝕖 𝕥𝕙𝕚𝕤 𝕙𝕒𝕔𝕜? [ℂ𝕝𝕚𝕖𝕟𝕥]** [Works ✔️]
 
-1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴢɪᴘ(https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/v1.0/default.zip)]
+1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴢɪᴘ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/v1.0/default.zip)
 2. ᴇxᴛʀᴀᴄᴛ ᴛʜᴇ ᴢɪᴘ
 3. [ᴅᴏᴡɴʟᴏᴀᴅ Krunker Client.exe fʀᴏᴍ ʜᴇʀᴇ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/v1.0.4/Krunker.Client.exe)
 4. ᴄᴜᴛ ᴛʜᴇ Krunker Client.exe ᴀɴᴅ ᴘᴀsᴛᴇ ɪᴛ ɪɴᴛᴏ ᴛʜᴇ ᴜɴᴢɪᴘᴘᴇᴅ fᴏʟᴅᴇʀ!
