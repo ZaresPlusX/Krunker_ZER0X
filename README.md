@@ -24,7 +24,7 @@ _________________________________________________________________________
 
 1. ᴅᴏᴡɴʟᴏᴀᴅ ᴇxɪsᴛɪɴɢ fɪʟᴇs ᴀs ᴀ ᴢɪᴘ
 2. ᴇxᴛʀᴀᴄᴛ ᴛʜᴇ ᴢɪᴘ
-3. [ᴅᴏᴡɴʟᴏᴀᴅ Krunker Client.exe fʀᴏᴍ ʜᴇʀᴇ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/untagged-abecc75210a36b532d25/Krunker.Client.exe)
+3. [ᴅᴏᴡɴʟᴏᴀᴅ Krunker Client.exe fʀᴏᴍ ʜᴇʀᴇ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/v1.0.4/Krunker.Client.exe)
 4. ᴄᴜᴛ ᴛʜᴇ Krunker Client.exe ᴀɴᴅ ᴘᴀsᴛᴇ ɪᴛ ɪɴᴛᴏ ᴛʜᴇ ᴜɴᴢɪᴘᴘᴇᴅ fᴏʟᴅᴇʀ!
 5. ʟᴀᴜɴᴄʜ Krunker Client.exe
 
