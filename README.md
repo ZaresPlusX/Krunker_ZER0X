@@ -44,6 +44,7 @@ start chrome --disable-gpu-vsync --disable-frame-rate-limit "krunker.io"
 taskkill /IM "brave.exe" /F
 start brave --disable-gpu-vsync --disable-frame-rate-limit "krunker.io" 
 ```
+**🆃🆄🆃🅾🆁🅸🅰🅻:https://www.youtube.com/watch?v=XSrZppuOKJQ&feature=youtu.be**
 _________________________________________________________________________
 Your hacks now working!
 
