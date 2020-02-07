@@ -51,5 +51,19 @@ cAW['nametagStyle'] = 0x0,
                     cDJ['nametagStyle'] = cCd;
                 }
             },
+//**********************************************************
+!spectating && !(cEn && cEn == cDV['team']) && !(cEn && cEn != cDV['team'] && cDR['mode']['teamSee'] && cDR['mode']['teamSee'][0x0] == cEn && cDR['mode']['teamSee'][0x1] == cDV['team']) && (cDR['config']['nameTags'] || cDR['mode']['hideNames'] || null != cDR['NnytIaeKQaTGWVEztOnrWRkUFIGNapXW'](cDT, cDV['x'], cDV['y'], cDV['z'])) && (cDV['kKUipnaqRAtiIhfoDISfqamlEaOkyIko'] = !0x1),
 //********************
+'server.config.nameTags': 'Nametags\x20ausblenden',
+//********************
+            'settings.interface.nametagStyle': 'Nametag\x20Style',
+            'settings.interface.nametagStyle.health': 'Health\x20Only',
+            'settings.interface.nametagStyle.name': 'Name\x20Only',
+            'settings.interface.nametagStyle.nameLvl': 'Name\x20&\x20Level\x20Only',
+            'settings.interface.nametagStyle.all': 'Everything',
+//**********************
+'server.config.nameTags': 'Hide\x20Nametags',
+//**********************
 'server.config.nameTags': '&#69;&#115;&#99;&#111;&#110;&#100;&#101;&#114;&#32;&#83;&#101;&#65533;&#97;&#108;&#32;&#100;&#101;&#108;&#32;&#78;&#111;&#109;&#98;&#114;&#101;',
+//**********************
+'server.config.nameTags': '&#21344;&#49905;&#47756;&#50713;&#54364;&#32;&#21344;&#50137;&#50713;&#21344;&#50137;&#50713;&#21344;&#50137;&#50713;',
