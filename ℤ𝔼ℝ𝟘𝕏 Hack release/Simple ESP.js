@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-// Just for fun
+// Just for practise
         function cTX() {
             if (!cDR['singlePlayer'] && (cDT && cDT['active'] || spectating))
                 for (var cCd = 0x0; cCd < cDR['players']['list']['length']; ++cCd)
