@@ -39,6 +39,8 @@ _________________________________________________________________________
 taskkill /IM "chrome.exe" /F
 start chrome --disable-gpu-vsync --disable-frame-rate-limit "krunker.io" 
 ```
+[ᴅᴏᴡɴʟᴏᴀᴅ bat here (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/0.4/krunker.unlimited.fps.bat)
+
 (Brave)
 ```diff
 taskkill /IM "brave.exe" /F
