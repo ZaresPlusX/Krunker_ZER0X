@@ -1,0 +1,38 @@
+{
+   "name":"Krunker Zares",
+   "version":"2.0.7",
+   "manifest_version":2,
+   "homepage_url":"https://github.com/ZaresPlusX/Krunker_ZER0X",
+   "description":"A helping hand for krunker.io",
+   "icons":{
+      "16":"main/icons/icon16.png",
+      "48":"main/icons/icon48.png",
+      "128":"main/icons/icon128.png"
+   },
+   "browser_action":{
+      "default_icon":"main/icons/icon19.png",
+      "default_title":"Krunker Zares"
+   },
+   "permissions":[
+      "webRequest",
+      "webRequestBlocking",
+      "https://krunker.io/*",
+      "https://assets.krunker.io/*"
+   ],
+   "web_accessible_resources":[
+      "*.js",
+      "*.css",
+      "*.obj",
+      "*.png",
+      "*.mp3",
+      "*.ttf",
+      "*.txt",
+      "*.html",
+      "*.json"
+   ],
+   "background":{
+      "scripts":[
+         "main/main.js"
+      ]
+   }
+}
