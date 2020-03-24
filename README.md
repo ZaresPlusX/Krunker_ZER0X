@@ -17,19 +17,13 @@ _________________________________________________________________________
 1. [ᴅᴏᴡɴʟᴏᴀᴅ ɪɴꜱᴛᴀʟʟᴇʀ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.7/Krunker.Skid.Client.ZaresPlus.X.Release.exe)
 2. ɪɴꜱᴛᴀʟʟ ᴀɴᴅ ᴇɴᴊᴏʏ
 
-==================================
-
 ===============[𝕄𝔸ℂ]=============
 1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴍɢ ɪᴍᴀɢᴇ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.8/Official.Krunker.io.Client-1.8.3.dmg)
 2.ᴇɴᴊᴏʏ
 
-===================================
-
 =============[𝕃𝕀ℕ𝕌𝕏]==============
 1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴘᴘɪᴍɢ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.8.1/Official.Krunker.io.Client-1.8.3.AppImage)
 2. ɪɴꜱᴛᴀʟʟ ᴀɴᴅ ᴇɴᴊᴏʏ
-
-===================================
 
 **🆃🆄🆃🅾🆁🅸🅰🅻:https://www.youtube.com/watch?v=pXGsf0Enlqc**
 _________________________________________________________________________
