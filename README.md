@@ -21,7 +21,7 @@ _________________________________________________________________________
 ===============[𝕄𝔸ℂ]=============
 1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴍɢ ɪᴍᴀɢᴇ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.8/Official.Krunker.io.Client-1.8.3.dmg)
 
-2.ᴇɴᴊᴏʏ
+ 2.ᴇɴᴊᴏʏ
 
 =============[𝕃𝕀ℕ𝕌𝕏]==============
 1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴘᴘɪᴍɢ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.8.1/Official.Krunker.io.Client-1.8.3.AppImage)
