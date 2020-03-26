@@ -16,7 +16,7 @@ _________________________________________________________________________
 ============[𝕎𝕀ℕ𝔻𝕆𝕎𝕊]============
 1. [ᴅᴏᴡɴʟᴏᴀᴅ ɪɴꜱᴛᴀʟʟᴇʀ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.7/Krunker.Skid.Client.ZaresPlus.X.Release.exe)
 
-2. ɪɴꜱᴛᴀʟʟ ᴀɴᴅ ᴇɴᴊᴏʏ
+2.ᴇɴᴊᴏʏ
 
 ===============[𝕄𝔸ℂ]=============
 1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴍɢ ɪᴍᴀɢᴇ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.8/Official.Krunker.io.Client-1.8.3.dmg)
