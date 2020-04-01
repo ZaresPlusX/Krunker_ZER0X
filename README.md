@@ -2,16 +2,16 @@
 
 <b>REQUIREMENTS:</b> • ᴛᴀᴍᴘᴇʀᴍᴏɴᴋᴇʏ/ᴠɪᴏʟᴇɴᴛᴍᴏɴᴋᴇʏ ᴀɴᴅ ᴡɪɴᴅᴏᴡs/ᴍᴀᴄ ᴀɴᴅ ʟɪɴᴜx  [64 ʙɪᴛ]</br>
 _________________________________________________________________________
-**ℍ𝕠𝕨 𝕥𝕠 𝕦𝕤𝕖 𝕥𝕙𝕚𝕤 𝕙𝕒𝕔𝕜? [𝔹𝕣𝕠𝕨𝕤𝕖𝕣 𝔼𝕩𝕥𝕖𝕟𝕤𝕚𝕠𝕟]** [Works for 2.1.1 ✔️]
+**ℍ𝕠𝕨 𝕥𝕠 𝕦𝕤𝕖 𝕥𝕙𝕚𝕤 𝕙𝕒𝕔𝕜? [𝔹𝕣𝕠𝕨𝕤𝕖𝕣 𝔼𝕩𝕥𝕖𝕟𝕤𝕚𝕠𝕟]** [Works for 2.1.2 ✔️]
 
-1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴢɪᴘ [ᴄʟɪᴄᴋ ʜᴇʀᴇ]](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.9/Krunker_Zares_Ext.zip)
+1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴢɪᴘ [ᴄʟɪᴄᴋ ʜᴇʀᴇ]](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.1.2/Krunker.Zares.ext.2.1.2.zip)
 2. ɴᴀᴠɪɢᴀᴛᴇ ᴛᴏ ᴄʜʀᴏᴍᴇ://ᴇxᴛᴇɴꜱɪᴏɴꜱ
 3. ᴇɴᴀʙʟᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴍᴏᴅᴇ (ᴘʀᴏʙᴀʙʟʏ ᴀ ᴄʜᴇᴄᴋʙᴏx ɪɴ ᴛʜᴇ ᴛᴏᴘ ʀɪɢʜᴛ)
 4. ᴅʀᴀɢ ᴛʜᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ꜰɪʟᴇ ɪɴᴛᴏ ᴛʜᴇ ᴇxᴛᴇɴꜱɪᴏɴꜱ ᴘᴀɢᴇ (ᴇxᴛʀᴀᴄᴛ ᴢɪᴘ)
 
 **🆃🆄🆃🅾🆁🅸🅰🅻: https://www.youtube.com/watch?v=OIqyjfH4P_A**
 _________________________________________________________________________
-**ℍ𝕠𝕨 𝕥𝕠 𝕦𝕤𝕖 𝕥𝕙𝕚𝕤 𝕙𝕒𝕔𝕜? [ℂ𝕝𝕚𝕖𝕟𝕥]** [Works for 2.1.01 ✔️]
+**ℍ𝕠𝕨 𝕥𝕠 𝕦𝕤𝕖 𝕥𝕙𝕚𝕤 𝕙𝕒𝕔𝕜? [ℂ𝕝𝕚𝕖𝕟𝕥]** [Works for 2.1.2 ✔️]
 
 ============[𝕎𝕀ℕ𝔻𝕆𝕎𝕊]============
 1. [ᴅᴏᴡɴʟᴏᴀᴅ ɪɴꜱᴛᴀʟʟᴇʀ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/2.0.7/Krunker.Skid.Client.ZaresPlus.X.Release.exe)
