@@ -56,7 +56,7 @@ start brave --disable-gpu-vsync --disable-frame-rate-limit "krunker.io"
 ```
 [ᴅᴏᴡɴʟᴏᴀᴅ bat here (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/0.0.1/krunker.unlimited.fps.bat)
 
-**🆃🆄🆃🅾🆁🅸🅰🅻:https://www.youtube.com/watch?v=XSrZppuOKJQ&feature=youtu.be**
+**🆃🆄🆃🅾🆁🅸🅰🅻: https://www.youtube.com/watch?v=XSrZppuOKJQ&feature=youtu.be**
 _________________________________________________________________________
 Your hacks now working!
 
