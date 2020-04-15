@@ -274,7 +274,7 @@
     const to_load = [g_m_a, processInputs, d_h_v_co, d_h_v_w, d_h_v_c, d_h_v_p, drawVisuals, r_m, h_m_e, h_n_r, w_i]
     const to_load_s = to_load.map(f => f.toString()).join(';')
     const patched_script = String.prototype.replace.call(script, /!function\((.)\){var (.)={};function (.)(\(.\){.*?return.*?.*?return.*?})/g, (match, wp_m, im, w_r, w_r_body) => {
-      const patched_script = `!function(${wp_m}){var ${im}={};${to_load_s};function ${w_r}${w_r_body}${w_r};var internal=internal=new w_i(${wp_m}, ${im}, ${w_r});internal.w.id='check_loaded';internal.w.style.position='absolute';internal.w.style.color='rgba(50,205,50,1)';internal.w.style.bottom='0';internal.w.style.left='20px';internal.w.style.fontSize='8pt';internal.w.innerHTML='Join Server (: (https://discord.gg/8TJ5y8F)';`
+      const patched_script = `!function(${wp_m}){var ${im}={};${to_load_s};function ${w_r}${w_r_body}${w_r};var internal=internal=new w_i(${wp_m}, ${im}, ${w_r});internal.w.id='check_loaded';internal.w.style.position='absolute';internal.w.style.color='rgba(50,205,50,1)';internal.w.style.bottom='0';internal.w.style.left='20px';internal.w.style.fontSize='8pt';internal.w.innerHTML='William Thomson#8245 (https://discord.gg/8TJ5y8F)';`
       return patched_script.length === i_i * o_o ? patched_script : match
     })
 
