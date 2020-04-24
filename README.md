@@ -1,3 +1,8 @@
+___________________________________________
+➤Hacks won't be updated here so join server
+Server: https://discord.gg/Zsppgn3 Updated hack here
+___________________________________________
+
 # ᴜɴʟɪᴍɪᴛᴇᴅ ℤ𝔼ℝ𝟘𝕏 ᴘᴏᴡᴇʀ
 
 <b>REQUIREMENTS:</b> • ᴛᴀᴍᴘᴇʀᴍᴏɴᴋᴇʏ/ᴠɪᴏʟᴇɴᴛᴍᴏɴᴋᴇʏ ᴀɴᴅ ᴡɪɴᴅᴏᴡs/ᴍᴀᴄ ᴀɴᴅ ʟɪɴᴜx  [64 ʙɪᴛ]</br>
